@@ -2,15 +2,15 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvqOBuGhM2zO2Xn0Tn29WFzTRJgKaa8Yx3Q)]
 
 <h1 align="center">Hi 👋, I'm Satwik Pandey</h1>
-<h3 align="center">Passionate Data and Business Analyst from India</h3>
+<h3 align="center">Passionate Data and Business Analyst | Python & SQL Enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2021/10/Big-Data-Analysts.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rish-pandeyy&label=Profile%20views&color=0e75b6&style=flat" alt="rish-pandeyy" /> </p>
 
-- 🔭 I’m currently working on **SQL**
-- 🌱 I’m currently learning **SQL COURSES**
-- 👯 I’m looking to collaborate on **SQL**
-- 🤝 I’m looking for help with **SQL**
+- 🔭 I’m currently working on **SQL projects**
+- 🌱 I’m continuously learning and refining my skills in **Python and SQL**
+- 👯 I’m always open to collaborate on **data analysis and business projects**
+- 🤝 I’m looking for help with **leveraging data for business insights**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,4 +49,5 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
 </p>
+
 
